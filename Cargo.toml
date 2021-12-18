@@ -1,5 +1,5 @@
 [package]
-name = "RoL - Rust on Lan"
+name = "rust_on_lan"
 version = "0.1.0"
 authors = ["Hrafnskogr <hrafnskogr@gmail.com"]
 edition = "2021"
